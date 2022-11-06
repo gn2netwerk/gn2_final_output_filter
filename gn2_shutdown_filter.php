@@ -3,7 +3,7 @@
 Plugin Name:  gn2 Shutdown Filter
 Plugin URI:   https://github.com/gn2netwerk/gn2_shutdown_filter
 Description:  Provides the custom filter "gn2_shutdown"
-Version:      1.0.0
+Version:      1.0.1
 Author:       gn2
 Author URI:   https://www.gn2.de/
 Update URI:   https://raw.githubusercontent.com/gn2netwerk/gn2_shutdown_filter/master/info.json
